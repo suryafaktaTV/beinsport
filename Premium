@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYlist hanya untuk anggota saya,,,mau pakai atau copy,ijin dulu boss...
 
-EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="zullSPORTS",BeIN Sports 1  Premium
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="zullSPORTS",BeIN Sports 1  Premium
 #http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=creative byZz
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="zullSPORTS",BeIN Sports 2 Premium
