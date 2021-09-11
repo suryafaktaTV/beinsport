@@ -1,5 +1,36 @@
 #EXTM3U
 #PLAYlist hanya untuk anggota saya,,,mau pakai atau copy,ijin dulu boss...
+EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="zullSPORTS",BeIN Sports 1  Premium
+#http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=creative byZz
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="zullSPORTS",BeIN Sports 2 Premium
+#http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
+http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=Creative by Zz
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="zullSPORTS",BeIN Sports 3 Premium
+http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="zullSPORTS",BeIN Sports 1
+#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="zullSPORTS",BeIN Sports 2
+#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="zullSPORTS",BeIN Sports 3
+#http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="zullSPORTS",BeIN Sports 4
+#http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="zullSPORTS",BeIN Sports 5
+#http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="zullSPORTS",BeIN Sports 6
+#http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=Creative by Zz
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="zullSPORTS",BeIN Sports 7
+#http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=Creative by Zz
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s1280/20210405_000554.png" ,AR: beIN SPORTS SD1
 #EXTVLCOPT:http-user-agent=bxamqiiryt1bnndjhiks2tyf3llahg
 http://kaicerfree.ddns.net:8080/c6dJ6xbpMN/s9dhuqAyZx/56
