@@ -7,202 +7,87 @@
 
 #Group-telegram="https://t.me/suryaTVfree"
 
-#EXTINF:-1,BEINSPORT 1 LOW PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/860
-#EXTINF:-1,BEINSPORT 2 LOW PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/861
-#EXTINF:-1,BEINSPORT 3 LOW PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/862
-#EXTINF:-1,BEINSPORT 1 SD PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/847
-#EXTINF:-1,BEINSPORT 2 SD PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/848
-#EXTINF:-1,BEINSPORT 3 SD PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/849
-#EXTINF:-1,BEINSPORTS 1 PREMIUM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/799
-#EXTINF:-1,BEINSPORTS 2 PREMIUM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/800
-#EXTINF:-1,BEINSPORTS 3 PREMIUM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/801
-#EXTINF:-1,BeINSPORTS 1 PREMIUM FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/817
-#EXTINF:-1,BeINSPORTS 2 PREMIUM FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/818
-#EXTINF:-1,BeINSPORTS 3 PREMIUM FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/819
-#EXTINF:-1,BeINSPORTS  1 PREMIUM  4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/834
-#EXTINF:-1,BeINSPORTS 2 PREMIUM 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/835
-#EXTINF:-1,BeINSPORTS 3 PREMIUM 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/836
-#EXTINF:-1,BeIN SPORTS 1 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/837
-#EXTINF:-1,BEINSPORT LOW 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/863
-#EXTINF:-1,BEINSPORT LOW 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/864
-#EXTINF:-1,BEINSPORT LOW 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/865
-#EXTINF:-1,BEINSPORT LOW 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/866
-#EXTINF:-1,BEINSPORT LOW 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/867
-#EXTINF:-1,bein sport xtra 01 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/869
-#EXTINF:-1,bein sport xtra 02 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/870
-#EXTINF:-1,BEIN SPORT 1 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/850
-#EXTINF:-1,BEINSPORT 2 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/851
-#EXTINF:-1,BEINSPORT 3 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/852
-#EXTINF:-1,BEINSPORT 4 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/853
-#EXTINF:-1,BEINSPORT 5 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/854
-#EXTINF:-1,BEINSPORT 6 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/855
-#EXTINF:-1,BEINSPORT 7 SD  1M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/856
-#EXTINF:-1,BEINSPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/802
-#EXTINF:-1,BEINSPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/803
-#EXTINF:-1,BEINSPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/804
-#EXTINF:-1,BEINSPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/805
-#EXTINF:-1,BEINSPORTS 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/806
-#EXTINF:-1,BEINSPORTS 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/807
-#EXTINF:-1,BEINSPORTS 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/808
-#EXTINF:-1,BeINSPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/820
-#EXTINF:-1,BeINSPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/821
-#EXTINF:-1,BeINSPORTS 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/822
-#EXTINF:-1,BeINSPORTS 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/823
-#EXTINF:-1,BeINSPORTS 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/824
-#EXTINF:-1,BeINSPORTS 6 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/825
-#EXTINF:-1,BeINSPORTS 7 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/826
-#EXTINF:-1,CANAL+ SPORT FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/827
-#EXTINF:-1,RMC SPORT 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/828
-#EXTINF:-1,RMC SPORT 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/829
-#EXTINF:-1,BEIN SPORT NEWS 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/832
-#EXTINF:-1,BEINSPORTS HD 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/833
-#EXTINF:-1,BeINSPORTS 2 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/838
-#EXTINF:-1,BeINSPORTS 3 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/839
-#EXTINF:-1,BeINSPORTS 4 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/840
-#EXTINF:-1,BeIN SPORTS 5 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/841
-#EXTINF:-1,BeINSPORTS 6 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/842
-#EXTINF:-1,BeINSPORTS 7 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/843
-#EXTINF:-1,BeINSPORTS 8 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/844
-#EXTINF:-1,BeINSPORTS 9 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/845
-#EXTINF:-1,BeINSPORTS 10 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/846
-
-#EXTINF:-1,BEIN SPORT NEWS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/794
-#EXTINF:-1,BEINSPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/795
-#EXTINF:-1,CANAL+ SPORT  HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/809
-#EXTINF:-1,RMC SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/810
-#EXTINF:-1,RMC SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/811
-#EXTINF:-1,CANAL+ SPORT SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/857
-#EXTINF:-1,RMC SPORT 1 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/858
-#EXTINF:-1,RMC SPORT 2 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/859
+#EXTINF:-1,beIN Sports 1 Premium HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/1
+#EXTINF:-1,beIN Sport 1 Premium SD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/2
+#EXTINF:-1,beIN Sport 2 Premium HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/3
+#EXTINF:-1,beIN Sport HD 5
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/9
+#EXTINF:-1,beIN Sport 2 Premium SD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/4
+#EXTINF:-1,beIN Sports 3 Premium HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/5
+#EXTINF:-1,beIN Sport 3 Premium SD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/6
+#EXTINF:-1,beIN Sports 4 HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/7
+#EXTINF:-1,beIN Sport SD 4
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/8
+#EXTINF:-1,beIN Sport SD 5
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/10
+#EXTINF:-1,beIN Sport SD 6
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/12
+#EXTINF:-1,beIN Sport HD 7
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/13
+#EXTINF:-1,beIN Sport SD 7
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/14
+#EXTINF:-1,beIN Sports 1 HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/15
+#EXTINF:-1,beIN Sports 2 HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/16
+#EXTINF:-1,beIN Sports 3 HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/17
+#EXTINF:-1,Bein Sports PR 1 Low
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/18
+#EXTINF:-1,Bein Sports PR 2 Low
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/19
+#EXTINF:-1,Bein Sports PR 3 Low
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/20
+#EXTINF:-1,beINSPORTS NBA
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/21
+#EXTINF:-1,bein sport News
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/22
+#EXTINF:-1,beIN Sports 1 SD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/23
+#EXTINF:-1,beIN Sports 2 SD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/24
+#EXTINF:-1,bein Sport 3 SD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/25
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/26
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/27
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/28
+#EXTINF:-1,beIN SPORTS1 H265
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/29
+#EXTINF:-1,beIN SPORTS2 H265
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/30
+#EXTINF:-1,beIN SPORTS3 H265
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/31
+#EXTINF:-1,beIN SPORTS4 H265
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/32
+#EXTINF:-1,Bein Extra HD1
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/33
+#EXTINF:-1,Bein Sports 2 XTRA
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/34
+#EXTINF:-1,beIN Sport HD 6
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/11
+#EXTINF:-1,SSC HD1
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/39
+#EXTINF:-1,SSC 1
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/40
+#EXTINF:-1,SSC 2
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/41
+#EXTINF:-1,SSC 3
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/42
+#EXTINF:-1,SSC 4
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/43
+#EXTINF:-1,SSC 5
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/44
+#EXTINF:-1,SSC 6 HD
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/45
+#EXTINF:-1,SSC 7
+http://mo3ad.xyz:8080/mo3ad08/mo3ad08/46
