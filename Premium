@@ -7,87 +7,35 @@
 
 #Group-telegram="https://t.me/suryaTVfree"
 
-#EXTINF:-1,beIN Sports 1 Premium HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/1
-#EXTINF:-1,beIN Sport 1 Premium SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/2
-#EXTINF:-1,beIN Sport 2 Premium HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/3
-#EXTINF:-1,beIN Sport HD 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/9
-#EXTINF:-1,beIN Sport 2 Premium SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/4
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/5
-#EXTINF:-1,beIN Sport 3 Premium SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/6
-#EXTINF:-1,beIN Sports 4 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/7
-#EXTINF:-1,beIN Sport SD 4
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/8
-#EXTINF:-1,beIN Sport SD 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/10
-#EXTINF:-1,beIN Sport SD 6
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/12
-#EXTINF:-1,beIN Sport HD 7
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/13
-#EXTINF:-1,beIN Sport SD 7
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/14
-#EXTINF:-1,beIN Sports 1 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/15
-#EXTINF:-1,beIN Sports 2 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/16
-#EXTINF:-1,beIN Sports 3 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/17
-#EXTINF:-1,Bein Sports PR 1 Low
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/18
-#EXTINF:-1,Bein Sports PR 2 Low
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/19
-#EXTINF:-1,Bein Sports PR 3 Low
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/20
-#EXTINF:-1,beINSPORTS NBA
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/21
-#EXTINF:-1,bein sport News
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/22
-#EXTINF:-1,beIN Sports 1 SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/23
-#EXTINF:-1,beIN Sports 2 SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/24
-#EXTINF:-1,bein Sport 3 SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/25
-#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/26
-#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/27
-#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/28
-#EXTINF:-1,beIN SPORTS1 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/29
-#EXTINF:-1,beIN SPORTS2 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/30
-#EXTINF:-1,beIN SPORTS3 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/31
-#EXTINF:-1,beIN SPORTS4 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/32
-#EXTINF:-1,Bein Extra HD1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/33
-#EXTINF:-1,Bein Sports 2 XTRA
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/34
-#EXTINF:-1,beIN Sport HD 6
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/11
-#EXTINF:-1,SSC HD1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/39
-#EXTINF:-1,SSC 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/40
-#EXTINF:-1,SSC 2
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/41
-#EXTINF:-1,SSC 3
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/42
-#EXTINF:-1,SSC 4
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/43
-#EXTINF:-1,SSC 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/44
-#EXTINF:-1,SSC 6 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/45
-#EXTINF:-1,SSC 7
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/46
+#EXTINF:-1,BEIN SPORT 1 HD PREMIUM
+http://ricoootv.xyz:8080/rico1/rico1/1
+#EXTINF:-1,BEIN SPORT 2 HD PREMIUM
+http://ricoootv.xyz:8080/rico1/rico1/2
+#EXTINF:-1,BEIN SPORT 3 HD PREMIUM
+http://ricoootv.xyz:8080/rico1/rico1/3
+#EXTINF:-1,BEIN SPORT 1 HD
+http://ricoootv.xyz:8080/rico1/rico1/4
+#EXTINF:-1,BEIN SPORT 2 HD
+http://ricoootv.xyz:8080/rico1/rico1/5
+#EXTINF:-1,BEIN SPORT 3 HD
+http://ricoootv.xyz:8080/rico1/rico1/6
+#EXTINF:-1,BEIN SPORT 5 HD
+http://ricoootv.xyz:8080/rico1/rico1/8
+#EXTINF:-1,BEIN SPORT 6 HD
+http://ricoootv.xyz:8080/rico1/rico1/9
+#EXTINF:-1,BEIN SPORT 7 HD
+http://ricoootv.xyz:8080/rico1/rico1/10
+#EXTINF:-1,BEIN SPORT 4 HD
+http://ricoootv.xyz:8080/rico1/rico1/7
+#EXTINF:-1,bein sport usa
+http://ricoootv.xyz:8080/rico1/rico1/84
+#EXTINF:-1,beinsport sd news
+http://ricoootv.xyz:8080/rico1/rico1/90
+#EXTINF:-1,BEIN XTRA 1
+http://ricoootv.xyz:8080/rico1/rico1/424
+#EXTINF:-1,BEIN XTRA 2
+http://ricoootv.xyz:8080/rico1/rico1/425
+#EXTINF:-1,SSC SPORT 1 HD
+http://ricoootv.xyz:8080/rico1/rico1/575
+#EXTINF:-1,SSC SPORT 2 HD
+http://ricoootv.xyz:8080/rico1/rico1/576
