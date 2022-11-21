@@ -7,5 +7,160 @@
 
 #Group-telegram="https://t.me/suryaTVfree"
 
-#EXTINF:-1,LIVE BOLA
+#EXTINF:-1,group="LIVE BOLA",1
 https://yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/chunks.m3u8?nimblesessionid=7899176
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,beIN Sports News
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUNxocgbndujRRSXmQ22kbvo/ts
+#EXTINF:-1,beIn Sports HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUIPvYrIVFPqBDpOGV0xvTL0/ts
+#EXTINF:-1,beIN Sports Max 1 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUL1p1NdYf9rcXof2Ou7kseM/ts
+#EXTINF:-1,beIN Sports Max 2 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUO-MtweV3rFUFkBqu-eaDds/ts
+#EXTINF:-1,beIN Sports Max 3 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUNZ1ePFF8ZzDP25M2p31vYs/ts
+#EXTINF:-1,beIN Sports Max 4 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUPdxjRbHYtrm4NMaxfCdZwo/ts
+#EXTINF:-1,beIN Sports Max 5 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUAeLozMDNszV6Q6qpBVjxjU/ts
+#EXTINF:-1,beIN Sports Max 6 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUAC8oTzz02fZGOhBcZHNv3c/ts
+#EXTINF:-1,beIN Sports Max 1 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUCXeb-y-cw6-a9v5-80qDQk/ts
+#EXTINF:-1,beIN Sports Max 2 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUB232ZZK9fvspVLY7QTYfrM/ts
+#EXTINF:-1,beIN Sports Max 3 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUJC2APaPg8QMLUn6qatSNUE/ts
+#EXTINF:-1,beIN Sports Max 4 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMyTpV2bxffAh95UZjN1E1U/ts
+#EXTINF:-1,beIN Sports Max 5 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMHuRSQA6FdPHQlRCJMpurY/ts
+#EXTINF:-1,beIN Sports Max 6 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUGNgVR-jxMYBdYLQ9z-tzTg/ts
+#EXTINF:-1,beIN Sports Max 1 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUGdsWnxHHeKsYUbZyJMQCPY/ts
+#EXTINF:-1,beIN Sports Max 2 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUICCm8yVMdqwD4fMwKZGeUQ/ts
+#EXTINF:-1,beIN Sports Max 3 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUM1hKi_sMogTHs0uvFKRryc/ts
+#EXTINF:-1,beIN Sports Max 4 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUOoZApj5biYSIQTNY7vFhAE/ts
+#EXTINF:-1,beIN Sports Max 5 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUDbwUT81zr0bpibEa6-vCT4/ts
+#EXTINF:-1,beIN Sports Max 6 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUFcL3c9B4Y5IVaODHxJYl_c/ts
+#EXTINF:-1,beIN Sports Premium 1 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUOmmTScgrmV9dipIu-6UKw0/ts
+#EXTINF:-1,beIN Sports Premium 2 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUKS7C5p5i9bgnphzd56oaW0/ts
+#EXTINF:-1,beIN Sports Premium 3 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUG0DEZxz6UEC5hMB6qaa1Gg/ts
+#EXTINF:-1,beIN Sports 1 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUNALQRmlKogs8CppT7XykRo/ts
+#EXTINF:-1,beIN Sports 2 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUNgYpmkvgduTDoSzQNCqHlk/ts
+#EXTINF:-1,beIN Sports 3 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUO9By2GEF6nQ-Z9J9_WCMsA/ts
+#EXTINF:-1,beIN Sports 4 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUHGuESvWbcd-4-R2ax0ErV0/ts
+#EXTINF:-1,beIN Sports 5 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUPnrfsM1QG2p28E2RnsbSMU/ts
+#EXTINF:-1,beIN Sports 6 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SULFPBI7mi5hfAJu6MGejB-Y/ts
+#EXTINF:-1,beIN Sports 7 FHD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUKrOp2IVn8mNLBFLxB1fBqs/ts
+#EXTINF:-1,beIN Sports Premium 1 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUBeVgZPeICNz4cPYdWwKyew/ts
+#EXTINF:-1,beIN Sports Premium 2 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUAegYupKLYgnPODZRahho54/ts
+#EXTINF:-1,beIN Sports Premium 3 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUHsxqmY04pFSI1TfQsu4xMg/ts
+#EXTINF:-1,beIN Sports 1 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUNF_etmRwD8DB12S30UqaqE/ts
+#EXTINF:-1,beIN Sports 2 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUDZtih0rL5G2uof06MSKnkA/ts
+#EXTINF:-1,beIN Sports 3 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUEeXJf7BUdFTzbn8Yt3MY8M/ts
+#EXTINF:-1,beIN Sports 4 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMz0tIBLa5kYLc-9fpCAPxg/ts
+#EXTINF:-1,beIN Sports 5 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUHJKWpdbXs_Nm2ZoOdjikH0/ts
+#EXTINF:-1,beIN Sports 6 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUEJ924KOeiIvx0KnZbSh5V8/ts
+#EXTINF:-1,beIN Sports 7 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUOkGWaCroYENLgejZvC7Ukw/ts
+#EXTINF:-1,beIN Sports Premium 1 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMjEerVg3vcNt4sKgJBTAFY/ts
+#EXTINF:-1,beIN Sports Premium 2 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUD383BaPDKJKG_DFjELjv1w/ts
+#EXTINF:-1,beIN Sports Premium 3 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMvcKZi6UXp0XcSjXhG1Tps/ts
+#EXTINF:-1,beIN Sports 1 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUCAQNVuXNb_JDX5JfS9wURs/ts
+#EXTINF:-1,beIN Sports 2 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUHbuyuwf94BUGLzFqGkLA8Y/ts
+#EXTINF:-1,beIN Sports 3 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUFPnEVBzuNj4kdPfiCJFVkc/ts
+#EXTINF:-1,beIN Sports 4 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMv1cPF7TuGMd_X7_FeaeIU/ts
+#EXTINF:-1,beIN Sports 5 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUL6L43R0gkmVfaldBjwLF0E/ts
+#EXTINF:-1,beIN Sports 6 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMziCYsZMn80NcFXX976GLo/ts
+#EXTINF:-1,beIN Sports 7 SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUNZLyr4ZVeQZTRRj5JVs3Qg/ts
+#EXTINF:-1,beIN Sports Xtra 1 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMWe036mB5TaqF7ySJYVVJo/ts
+#EXTINF:-1,beIN Sports Xtra 2 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUPAvPx1PGAjUamR4aq4OaRA/ts
+#EXTINF:-1,beIN Sports English 1
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUEdgKMmh5CclsvLeC63ps1I/ts
+#EXTINF:-1,beIN Sports English 2
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUE-Ap5aiXdT2k8gQKqbMmZI/ts
+#EXTINF:-1,beIN Sports French 1
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUBU0ex7qoN9i1eBFbtdJipU/ts
+#EXTINF:-1,beIN Sports French 2
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUBrOn7i3eJj4PSbcXxl72zE/ts
+#EXTINF:-1,AD Sport 1 Premium
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUMsEqiornezG1IS-NpSGNkI/ts
+#EXTINF:-1,AD Sport 2 Premium
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUK0yuk1vf7U-msusRYgesfw/ts
+#EXTINF:-1,AD Sports 1
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUPbpTjjAEEtQ8Ui0HuD8IrM/ts
+#EXTINF:-1,AD Sports 2
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUA_nX3C32Xj-6Cf4o0Q4ptw/ts
+#EXTINF:-1,KSA SPORTS 1 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUATYyH8Zo_UWC6DcVIrqg4I/ts
+#EXTINF:-1,KSA SPORTS 2 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUKyXkDB7tgS7HafPOg-ckIk/ts
+#EXTINF:-1,KSA SPORTS 3 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUA61aMpPZFjAYbvheFFgJrE/ts
+#EXTINF:-1,KSA SPORTS 4 HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUApg22SE1So4yRenu5Lul54/ts
+#EXTINF:-1,SSC Extra 1
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUAzDErIphlejt5Vlik_JRr0/ts
+#EXTINF:-1,SSC Extra 2
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUD25u_3Qbezamj5_u-z9jgg/ts
+#EXTINF:-1,SSC SPORTS HD 1
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUL87T65V-3eR2bOikUP-Jg8/ts
+#EXTINF:-1,SSC SPORTS HD 2
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUF5QE7D5svMGfC5ELjrmkE8/ts
+#EXTINF:-1,SSC SPORTS HD 3
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUOjm1gSJ5nS5Q6k87rlnS4k/ts
+#EXTINF:-1,SSC SPORTS HD 4
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUDcU6mdui-6P4Uxsh1q9rqk/ts
+#EXTINF:-1,SSC SPORTS HD 5
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUI4Mtq2JCHouH8bjJbIKKRE/ts
+#EXTINF:-1,Arryadia Maroc HD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUOaHt_7pYCj7LJUrWWebU8g/ts
+#EXTINF:-1,Arryadia Maroc SD
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUGmxlgbRsRYT0wNmgTnQMl4/ts
+#EXTINF:-1,ONTIME Sport
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUCG-d3YppoNIjwk84TGh5L0/ts
+#EXTINF:-1,ONTIME Sport 2
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUGhKwpOSjNlz2aNQPjVFxPI/ts
+#EXTINF:-1,ONTIME Sport 3
+http://open.vtpii.com:80/play/Q3lMLgWogX38aIV1qJ2SUECA5SoP7ZsJV14r2-WeFyA/ts
