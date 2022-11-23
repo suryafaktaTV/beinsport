@@ -7,248 +7,355 @@
 
 #Group-telegram="https://t.me/suryaTVfree"
 
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1,beIN Sports News
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuDaFaPusic28JTFr9uzPzg8/ts
-#EXTINF:-1,beIn Sports HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuJsNh7TR6-nZySXnWEWp-PE/ts
-#EXTINF:-1,beIN Sports Max 1 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuFcCxVeq87cmzqvlxTazmyM/ts
-#EXTINF:-1,beIN Sports Max 2 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuNDZ-0fjk3KB-G_ftSXbVNM/ts
-#EXTINF:-1,beIN Sports Max 3 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuBe9M7cWWmwqefKPC14FKUI/ts
-#EXTINF:-1,beIN Sports Max 4 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuP8_MEER4EAd8hSs8l7WDlc/ts
-#EXTINF:-1,beIN Sports Max 5 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuI3J1WWqpRFbC_1iToU_Kfo/ts
-#EXTINF:-1,beIN Sports Max 6 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuHmfb-UU8fUe7y0CKVrlN8Q/ts
-#EXTINF:-1,beIN Sports Max 1 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuA97Jpi7myWSuXbz6IO7H04/ts
-#EXTINF:-1,beIN Sports Max 2 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuEpPk8IoLSf4hTLcRluyWFA/ts
-#EXTINF:-1,beIN Sports Max 3 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuJAWU0irT8Obk83ZY9_9nPM/ts
-#EXTINF:-1,beIN Sports Max 4 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuCfNsNWA10Z3L46GEdjTKyo/ts
-#EXTINF:-1,beIN Sports Max 5 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuKCcPtBKDMEzzXzc8YnM8pk/ts
-#EXTINF:-1,beIN Sports Max 6 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuIGUNNl_occbZPWm40BX1s0/ts
-#EXTINF:-1,beIN Sports Max 1 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuFLKKoMEVFcI4vAfnD_8QGk/ts
-#EXTINF:-1,beIN Sports Max 2 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuMZf4uvWc75Z7Ivw7sXBYgM/ts
-#EXTINF:-1,beIN Sports Max 3 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuLQTA8XsUNeyssBRK8cUNrc/ts
-#EXTINF:-1,beIN Sports Max 4 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuBrbt2gcTryoBw9UbEQiqSQ/ts
-#EXTINF:-1,beIN Sports Max 5 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuM4CrA_vvhTM_Iej10coA-Y/ts
-#EXTINF:-1,beIN Sports Max 6 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuNkp93jLtjNho7rPNt-X9bc/ts
-#EXTINF:-1,beIN Sports Premium 1 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuPlykVSHdHfhMSSy-fTP_1w/ts
-#EXTINF:-1,beIN Sports Premium 2 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuEtv7Xdh-Oo_Jt6PCZ2uoWw/ts
-#EXTINF:-1,beIN Sports Premium 3 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuMCOCvYl1uADkBEonzHMjbA/ts
-#EXTINF:-1,beIN Sports 1 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuALq2R14synZRAuEJPoMJgI/ts
-#EXTINF:-1,beIN Sports 2 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuNHsA-7VCVJ0XsOwOz3Vf40/ts
-#EXTINF:-1,beIN Sports 3 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuByLoljWApDYZFHCavf1x4U/ts
-#EXTINF:-1,beIN Sports 4 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuL6ryJYn1YQr3ASgqUSl5Io/ts
-#EXTINF:-1,beIN Sports 5 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuGGUZ3a2WC28ge3nUPEns58/ts
-#EXTINF:-1,beIN Sports 6 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuGaRCPDlmkUaEqUVRPZhNAw/ts
-#EXTINF:-1,beIN Sports 7 FHD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuPFCeUi90lwRAHAN8fg09sY/ts
-#EXTINF:-1,beIN Sports Premium 1 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuAipRD3if93_hqfoj6Od23M/ts
-#EXTINF:-1,beIN Sports Premium 2 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuPVkpkBZ3uc9UH3tTiLQqzM/ts
-#EXTINF:-1,beIN Sports Premium 3 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuDKp1-Gzt0Z4Dt4LamwlNts/ts
-#EXTINF:-1,beIN Sports 1 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuEkHNIDPz3eSrZmudQvKr68/ts
-#EXTINF:-1,beIN Sports 2 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuOWGpZE6196LKaG1lk0bhyo/ts
-#EXTINF:-1,beIN Sports 3 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuOcIrlz_l_3C3tCSQXoK8DA/ts
-#EXTINF:-1,beIN Sports 4 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuMYE6IZuIuGvihihjSkB6eo/ts
-#EXTINF:-1,beIN Sports 5 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuLlSjeuTBb3bRvpv6HzBb_A/ts
-#EXTINF:-1,beIN Sports 6 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuFjYQDuCORZ_SzqtpWMtmak/ts
-#EXTINF:-1,beIN Sports 7 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuKyUjWtS-MHyUs3bm_bBNWU/ts
-#EXTINF:-1,beIN Sports Premium 1 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuOCcpU1TrVGjJ4giljYQd7A/ts
-#EXTINF:-1,beIN Sports Premium 2 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuLjkIpbfxI-B0TD3vM2uu1U/ts
-#EXTINF:-1,beIN Sports Premium 3 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuLJ8pfKMeIMk2qMgmmrrlfo/ts
-#EXTINF:-1,beIN Sports 1 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuHMIJOodpc6XnckqMBApfak/ts
-#EXTINF:-1,beIN Sports 2 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuL6iC6DVVTApwFys-fDZOvI/ts
-#EXTINF:-1,beIN Sports 3 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuKN5YrsbwOB7RzaNzQhYZ9c/ts
-#EXTINF:-1,beIN Sports 4 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuCTmBr2RU0Ovi3VSMXD9Vro/ts
-#EXTINF:-1,beIN Sports 5 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuKRNihnyIRaks8Ay8hig6uY/ts
-#EXTINF:-1,beIN Sports 6 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuLMJb8wT506fIYS7DJqRNK0/ts
-#EXTINF:-1,beIN Sports 7 SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuP5MGEHSmglqcWg3cfKWU98/ts
-#EXTINF:-1,beIN Sports Xtra 1 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuHiUX5S2RZoUBi_y_pl8cZ0/ts
-#EXTINF:-1,beIN Sports Xtra 2 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuE3Ly0LZvhKLBkgT6OWmNZY/ts
-#EXTINF:-1,beIN Sports English 1
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuKvO9pe8FXmT4MRWHuPQH8Q/ts
-#EXTINF:-1,beIN Sports English 2
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuC8nTXewsuO67b2C7aoYVdM/ts
-#EXTINF:-1,beIN Sports French 1
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuMsJYGO_fs7atm3OmVoKuA0/ts
-#EXTINF:-1,beIN Sports French 2
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuHmuGy8TT2miQMUgW40ZYnI/ts
-#EXTINF:-1,AD Sport 1 Premium
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuIYCz-cnN3-sMWrgHlkYPCs/ts
-#EXTINF:-1,AD Sport 2 Premium
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuHvaM5nwMKai7fWABfWw5l4/ts
-#EXTINF:-1,AD Sports 1
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuAQocEc9kkxQko_Fp8B6q_w/ts
-#EXTINF:-1,AD Sports 2
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuIPEMcQMQ4PbiWFbtG_hklE/ts
-#EXTINF:-1,KSA SPORTS 1 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuGv3TursEPPiPaz6EbgNREE/ts
-#EXTINF:-1,KSA SPORTS 2 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuKxbjCeSVjmNehtpEfCsC38/ts
-#EXTINF:-1,KSA SPORTS 3 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuJxobWzFJBH3vjc-2qBW0sE/ts
-#EXTINF:-1,KSA SPORTS 4 HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuMB9cDzX_H1L6iLOKrOAl8k/ts
-#EXTINF:-1,SSC Extra 1
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuOoVvohrIR7Q67SYGJ9KtS8/ts
-#EXTINF:-1,SSC Extra 2
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuM8TwMyPTitv8-rw9RVy9SA/ts
-#EXTINF:-1,SSC SPORTS HD 1
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuD_w4aXazjBKK30NFbpwgYo/ts
-#EXTINF:-1,SSC SPORTS HD 2
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuMfnniW866Aochy8VhRhs0I/ts
-#EXTINF:-1,SSC SPORTS HD 3
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuM4aLuc-m1FyZ8cp14GAY2E/ts
-#EXTINF:-1,SSC SPORTS HD 4
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuBLXTP_XvE781DwpW6U0t9c/ts
-#EXTINF:-1,SSC SPORTS HD 5
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuGQ4VaAOKstuZbEt9Qx549E/ts
-#EXTINF:-1,Arryadia Maroc HD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuPrrS2JZvlL11uR0whh3wOg/ts
-#EXTINF:-1,Arryadia Maroc SD
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuFwBBidFGJbkGWsEczdqRps/ts
-#EXTINF:-1,ONTIME Sport
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuM7jUNnmweKbascPctalpDw/ts
-#EXTINF:-1,ONTIME Sport 2
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuJ3-fKsAvv1CohYujCqscy8/ts
-#EXTINF:-1,ONTIME Sport 3
-http://open.vtpii.com:80/play/5Lo6byDtZnOjd8ObZHxTuF4N4YP-UDrTgvzemp0z-wQ/ts
-
-#EXTINF:-1,BExIN MAX 1
-http://206.189.23.0:25461/freee/freeee/2332
-#EXTINF:-1,BExIN MAX 2
-http://206.189.23.0:25461/freee/freeee/2333
-#EXTINF:-1,BExIN MAX 3
-http://206.189.23.0:25461/freee/freeee/2334
-#EXTINF:-1,BExIN MAX 4
-http://206.189.23.0:25461/freee/freeee/2335
-#EXTINF:-1,BExIN MAX 5
-http://206.189.23.0:25461/freee/freeee/2336
-#EXTINF:-1,BExIN MAX 6
-http://206.189.23.0:25461/freee/freeee/2337
-#EXTINF:-1,W-Cup FR | TF1  HD (4K)
-http://206.189.23.0:25461/freee/freeee/2338
-#EXTINF:-1,W-Cup FR | M6 HD
-http://206.189.23.0:25461/freee/freeee/2339
-#EXTINF:-1,W-Cup Bein Sports 1
-http://206.189.23.0:25461/freee/freeee/2340
-#EXTINF:-1,W-Cup Bein Sports 2
-http://206.189.23.0:25461/freee/freeee/2341
-#EXTINF:-1,W-Cup Bein Sports 3
-http://206.189.23.0:25461/freee/freeee/2342
-#EXTINF:-1,W-Cup DE | Das Erste (ARD)
-http://206.189.23.0:25461/freee/freeee/2343
-#EXTINF:-1,W-Cup DE | ZDF
-http://206.189.23.0:25461/freee/freeee/2344
-#EXTINF:-1,W-Cup IT | Rai 3 HD
-http://206.189.23.0:25461/freee/freeee/2345
-#EXTINF:-1,W-Cup IT | Rai 3 HD
-http://206.189.23.0:25461/freee/freeee/2346
-#EXTINF:-1,W-Cup IT | Rai 3 HD
-http://206.189.23.0:25461/freee/freeee/2347
-#EXTINF:-1,W-Cup TR | TRT 1 HD
-http://206.189.23.0:25461/freee/freeee/2348
-#EXTINF:-1,W-Cup TR | TRT 1 HD
-http://206.189.23.0:25461/freee/freeee/2349
-#EXTINF:-1,W-Cup UK | BBC One? HD
-http://206.189.23.0:25461/freee/freeee/2350
-#EXTINF:-1,| beIN Sports HD
-http://206.189.23.0:25461/freee/freeee/2306
-#EXTINF:-1,| beIN Sports HD News
-http://206.189.23.0:25461/freee/freeee/2307
-#EXTINF:-1,| beIN Sports Prem HD 1
-http://206.189.23.0:25461/freee/freeee/2308
-#EXTINF:-1,| beIN Sports Prem HD 2
-http://206.189.23.0:25461/freee/freeee/2309
-#EXTINF:-1,| beIN Sports Prem HD 3
-http://206.189.23.0:25461/freee/freeee/2310
-#EXTINF:-1,| beIN Sports HD 1
-http://206.189.23.0:25461/freee/freeee/2311
-#EXTINF:-1,| beIN Sports HD 2
-http://206.189.23.0:25461/freee/freeee/2312
-#EXTINF:-1,| beIN Sports HD 3
-http://206.189.23.0:25461/freee/freeee/2313
-#EXTINF:-1,| beIN Sports HD 4
-http://206.189.23.0:25461/freee/freeee/2314
-#EXTINF:-1,| beIN Sports HD 5
-http://206.189.23.0:25461/freee/freeee/2315
-#EXTINF:-1,| beIN Sports HD 6
-http://206.189.23.0:25461/freee/freeee/2316
-#EXTINF:-1,| beIN Sports HD 7
-http://206.189.23.0:25461/freee/freeee/2317
-#EXTINF:-1,| beIN Sports HD 1 ENG
-http://206.189.23.0:25461/freee/freeee/2318
-#EXTINF:-1,| beIN Sports HD 2 ENG
-http://206.189.23.0:25461/freee/freeee/2319
-#EXTINF:-1,| beIN Sports HD 3 ENG
-http://206.189.23.0:25461/freee/freeee/2320
-#EXTINF:-1,| beIN Sports HD 1 FR
-http://206.189.23.0:25461/freee/freeee/2321
-#EXTINF:-1,| beIN Sports HD 2 FR
-http://206.189.23.0:25461/freee/freeee/2322
-#EXTINF:-1,| beIN Sports HD 3 FR
-http://206.189.23.0:25461/freee/freeee/2323
-#EXTINF:-1,Seri A StarzPlay
-http://206.189.23.0:25461/freee/freeee/2324
-#EXTINF:-1,Seri A StarzPlay 2
-http://206.189.23.0:25461/freee/freeee/2325
-#EXTINF:-1,| beIN Sports HD XTRA 1
-http://206.189.23.0:25461/freee/freeee/2326
-#EXTINF:-1,| beIN Sports HD XTRA 2
-http://206.189.23.0:25461/freee/freeee/2327
-#EXTINF:-1,Sky Sports Crickets
-http://206.189.23.0:25461/freee/freeee/2328
-#EXTINF:-1,| beIN Sports HD US
-http://206.189.23.0:25461/freee/freeee/2329
-#EXTINF:-1,Bein MAX World Cup 1
-http://206.189.23.0:25461/freee/freeee/2330
-#EXTINF:-1,Bein MAX World Cup 2
-http://206.189.23.0:25461/freee/freeee/2331
+#EXTINF:-1,QA: beIN Sports Max 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296991
+#EXTINF:-1,QA: beIN Sports Max 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/199001
+#EXTINF:-1,QA: beIN Sports Max 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296992
+#EXTINF:-1,QA: beIN Sports Max 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/13813
+#EXTINF:-1,QA: beIN Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280725
+#EXTINF:-1,QA: beIN Sports 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/100
+#EXTINF:-1,QA: beIN Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/101
+#EXTINF:-1,QA: beIN Sports 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/102
+#EXTINF:-1,QA: beIN Sports 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/103
+#EXTINF:-1,QA: beIN Sports 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/104
+#EXTINF:-1,QA: beIN Sports 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/105
+#EXTINF:-1,QA: beIN Sports 7
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/106
+#EXTINF:-1,QA: beIN Sports AFC
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296113
+#EXTINF:-1,QA: beIN Sports AFC 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296116
+#EXTINF:-1,QA: beIN Sports AFC 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296115
+#EXTINF:-1,QA: beIN Sports AFC 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296119
+#EXTINF:-1,QA: beIN Sports English 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/110
+#EXTINF:-1,QA: beIN Sports English 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/111
+#EXTINF:-1,QA: beIN Sports English 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/267769
+#EXTINF:-1,QA: beIN Sports NBA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/15962
+#EXTINF:-1,QA: beIN Sports News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1266
+#EXTINF:-1,QA: beIN Sports Premium 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/109
+#EXTINF:-1,QA: beIN Sports Premium 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280145
+#EXTINF:-1,QA: beIN Sports Premium 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280249
+#EXTINF:-1,QA: beIN Sports Xtra 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290037
+#EXTINF:-1,QA: beIN Sports Xtra 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/283294
+#EXTINF:-1,PH: beIN Sports 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/282772
+#EXTINF:-1,PH: beIN Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/282773
+#EXTINF:-1,PH: beIN Sports 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/266844
+#EXTINF:-1,QA: AlKass 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/26389
+#EXTINF:-1,QA: AlKass 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11899
+#EXTINF:-1,QA: AlKass 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11900
+#EXTINF:-1,QA: AlKass Online
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/33069
+#EXTINF:-1,QA: beIN Sports NBA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/15962
+#EXTINF:-1,QA: beIN Sports News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1266
+#EXTINF:-1,QA: beIN Sports Premium 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/109
+#EXTINF:-1,QA: beIN Sports Premium 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280145
+#EXTINF:-1,QA: beIN Sports Premium 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280249
+#EXTINF:-1,QA: beIN Sports Xtra 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290037
+#EXTINF:-1,QA: beIN Sports Xtra 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/283294
+#EXTINF:-1,FR: beIN Sports 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/144
+#EXTINF:-1,FR: beIN Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/145
+#EXTINF:-1,FR: beIN Sports 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/146
+#EXTINF:-1,FR: beIN Sports Max 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3599
+#EXTINF:-1,FR: beIN Sports Max 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/6083
+#EXTINF:-1,FR: beIN Sports Max 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/4368
+#EXTINF:-1,FR: beIN Sports Max 7
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/4369
+#EXTINF:-1,FR: beIN Sports Max 8
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/4370
+#EXTINF:-1,FR: beIN Sports Max 9
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/4371
+#EXTINF:-1,FR: beIN Sports Max 10
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/6088
+#EXTINF:-1,FR: CANAL+ Sport
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/143
+#EXTINF:-1,FR: CANAL+ Sport 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291175
+#EXTINF:-1,FR: CANAL+ Sport 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291177
+#EXTINF:-1,FR: CANAL+ Sport 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291178
+#EXTINF:-1,FR: MULTISPORT 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290572
+#EXTINF:-1,FR: MULTISPORT 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290573
+#EXTINF:-1,FR: MULTISPORT 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290574
+#EXTINF:-1,FR: MULTISPORT 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290575
+#EXTINF:-1,FR: MULTISPORT 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290576
+#EXTINF:-1,FR: MULTISPORT 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290577
+#EXTINF:-1,BE: ELEVEN SPORTS 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/36420
+#EXTINF:-1,BE: ELEVEN SPORTS 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/82246
+#EXTINF:-1,BE: ELEVEN SPORTS 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290476
+#EXTINF:-1,FR: RMC SPORT 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1937
+#EXTINF:-1,FR: RMC SPORT 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1938
+#EXTINF:-1,FR: RMC SPORT 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/279991
+#EXTINF:-1,FR: RMC SPORT 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/279752
+#EXTINF:-1,FR: RMC SPORT 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1940
+#EXTINF:-1,FR: RMC SPORT 7
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/20883
+#EXTINF:-1,FR: RMC SPORT 8
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/20884
+#EXTINF:-1,FR: RMC SPORT 9
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/20885
+#EXTINF:-1,FR: RMC SPORT 10
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/192025
+#EXTINF:-1,FR: RMC SPORT 11
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/20888
+#EXTINF:-1,FR: RMC SPORT 12
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/20887
+#EXTINF:-1,FR: RMC SPORT 13
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/20890
+#EXTINF:-1,MY: Astro SuperSport 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
+#EXTINF:-1,MY: Astro SuperSport 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157556
+#EXTINF:-1,MY: Astro SuperSport 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157557
+#EXTINF:-1,MY: Astro SuperSport 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157558
+#EXTINF:-1,MY: beIN Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157561
+#EXTINF:-1,US: beIN Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/284530
+#EXTINF:-1,US: beIN Sports 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2272
+#EXTINF:-1,US: beIN Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/151022
+#EXTINF:-1,US: beIN Sports 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/151025
+#EXTINF:-1,US: beIN Sports 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/151024
+#EXTINF:-1,US: beIN Sports 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/151026
+#EXTINF:-1,US: beIN Sports 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/151030
+#EXTINF:-1,US: beIN Sports 7
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/151028
+#EXTINF:-1,US: beIN Sports n
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296690
+#EXTINF:-1,US: beIN Sports USA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296691
+#EXTINF:-1,TR: beIN Sports 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1735
+#EXTINF:-1,TR: beIN Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1737
+#EXTINF:-1,TR: beIN Sports 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1739
+#EXTINF:-1,TR: beIN Sports 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/7450
+#EXTINF:-1,TR: beIN Sports Haber
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/7448
+#EXTINF:-1,TR: beIN Sports Max 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8224
+#EXTINF:-1,TR: beIN Sports Max 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/16878
+#EXTINF:-1,CA: beIN Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/13239
+#EXTINF:-1,TR: S Sport
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1753
+#EXTINF:-1,TR: S Sport 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/10167
+#EXTINF:-1,TR: Spor Smart
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1750
+#EXTINF:-1,TR: Spor Smart 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/50121
+#EXTINF:-1,TR: Sports TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/89846
+#EXTINF:-1,TR: Tivibu Spor
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1746
+#EXTINF:-1,TR: Tivibu Spor 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1748
+#EXTINF:-1,TR: Tivibu Spor 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1749
+#EXTINF:-1,TR: Tivibu Spor 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/286778
+#EXTINF:-1,TR: TRT 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/507
+#EXTINF:-1,TR: TRT 4K
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1810
+#EXTINF:-1,TR: TRT Spor
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/528
+#EXTINF:-1,TR: TRT Spor Yildiz
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/32095
+#EXTINF:-1,AZ: Ictimai TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/684
+#EXTINF:-1,AZ: Idman TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/685
+#EXTINF:-1,NL: ESPN
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/267209
+#EXTINF:-1,NL: ESPN 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/272119
+#EXTINF:-1,NL: ESPN 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/272120
+#EXTINF:-1,NL: ESPN 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/272121
+#EXTINF:-1,IT: DAZN 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/79220
+#EXTINF:-1,IT: DAZN 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/39497
+#EXTINF:-1,IT: Sky Sport 24
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2535
+#EXTINF:-1,IT: Sky Sport Arena
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2541
+#EXTINF:-1,IT: Sky Sport F1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2542
+#EXTINF:-1,IT: Sky Sport Football
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2543
+#EXTINF:-1,IT: Sky Sport Golf
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/147371
+#EXTINF:-1,IT: Sky Sport NBA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1047
+#EXTINF:-1,IT: Sky Sport Uno
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/278706
+#EXTINF:-1,AU: beIN Sports 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/35347
+#EXTINF:-1,AU: beIN Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/35338
+#EXTINF:-1,AU: beIN Sports 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/35340
+#EXTINF:-1,AU: Bloomberg TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/146817
+#EXTINF:-1,AU: ESPN 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/35326
+#EXTINF:-1,AU: Expo Channel
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/54325
+#EXTINF:-1,AU: FOX SPORTS 501
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/279034
+#EXTINF:-1,AU: FOX SPORTS 502
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/81784
+#EXTINF:-1,AU: FOX SPORTS 503
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280192
+#EXTINF:-1,AU: FOX SPORTS 505
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/144772
+#EXTINF:-1,AU: FOX SPORTS 506
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/279033
+#EXTINF:-1,AU: FOX SPORTS 507
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280194
+#EXTINF:-1,ES: beIN Sports Xtra en Espanol
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/281493
+#EXTINF:-1,ZA: SuperSport Action
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/194354
+#EXTINF:-1,ZA: SuperSport Blitz
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/281536
+#EXTINF:-1,ZA: SuperSport Cricket
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11637
+#EXTINF:-1,ZA: SuperSport Football
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38575
+#EXTINF:-1,ZA: SuperSport Golf
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11641
+#EXTINF:-1,ZA: SuperSport Grandstand
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/194353
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/194358
+#EXTINF:-1,ZA: SuperSport Maximo 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38572
+#EXTINF:-1,ZA: SuperSport Motorsport
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11638
+#EXTINF:-1,ZA: SuperSport Premier League
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11642
+#EXTINF:-1,ZA: SuperSport PSL
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11643
+#EXTINF:-1,ZA: SuperSport Rugby
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11639
+#EXTINF:-1,ZA: SuperSport Tennis
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/15200
+#EXTINF:-1,ZA: SuperSport Variety 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11633
+#EXTINF:-1,ZA: SuperSport Variety 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11634
+#EXTINF:-1,ZA: SuperSport Variety 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11635
+#EXTINF:-1,ZA: SuperSport Variety 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/11636
+#EXTINF:-1,AL: SuperSport 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1312
+#EXTINF:-1,AL: SuperSport 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1319
+#EXTINF:-1,AL: SuperSport 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1318
+#EXTINF:-1,AL: SuperSport 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1860
+#EXTINF:-1,AL: SuperSport 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3638
+#EXTINF:-1,AL: SuperSport 7
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/174441
+#EXTINF:-1,AL: SuperSport News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1313
+#EXTINF:-1,RS: Sport Klub
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3466
+#EXTINF:-1,RS: Sport Klub 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3468
+#EXTINF:-1,RS: Sport Klub 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3469
+#EXTINF:-1,RS: Sport Klub 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/5563
+#EXTINF:-1,RS: Sport Klub 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/10752
+#EXTINF:-1,RS: Sport Klub 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3471
+#EXTINF:-1,HR: Arena Sport 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3601
+#EXTINF:-1,HR: Arena Sport 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3603
+#EXTINF:-1,HR: Arena Sport 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3605
+#EXTINF:-1,HR: Arena Sport 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3607
+#EXTINF:-1,HR: Arena Sport 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3608
+#EXTINF:-1,HR: Arena Sport 6
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/10961
+#EXTINF:-1,HR: Arena Sport 10
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/286740
