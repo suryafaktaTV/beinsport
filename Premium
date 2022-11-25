@@ -7,12 +7,6 @@
 
 #Group-telegram="https://t.me/suryaTVfree"
 
-#EXTINF:-1,group-tittle="live",world cup 1
-https://ed-n2.icetoot.me/plyvivo/naguc0gifakopu6o5i10/chunklist.m3u8
-#EXTINF:-1,group-tittle="live",world cup 2
-https://yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/chunks.m3u8?nimblesessionid=24635441
-#EXTM3U url-tvg="http://m3u4u.com/epg/5g28neg2v8hwppm8nzpe"
-
 #EXTINF:0 group-title="QTR" tvg-logo="https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",CHNL 1
 https://webudi.openhd.lol/cdn/eplayerfs1/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
 
@@ -49,113 +43,6 @@ https://griomreavigremant654.s3.amazonaws.com/redzone.m3u8
 https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63
 #EXTINF:0 group-title="QTR" tvg-logo="https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",CHNL 11
 https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669172551-0-0-1da16b4750984e90fe9baa7c8ecff935
-
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3UXfcyf",1.Maroko vs Croatia (17:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://0e86bba66a2158e99a2b6018ce5e07108d33e39944a7ebbfe81.s3.eu-west-3.amazonaws.com/2866c8bb34632851b60c7140aab3bf2d/live.m3u8|Referer=https://www.a7bd99146aa6f.online/
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3UXfcyf",2.Maroko vs Croatia (17:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://griomreavigremant654.s3.amazonaws.com/redzone2.m3u8
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3UXfcyf",3.Maroko vs Croatia (17:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8|Referer=https://cliptv.vn/
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3UXfcyf",4.Maroko vs Croatia (17:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3UXfcyf",5.Maroko vs Croatia (17:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3VhgjZf",6.Jerman vs Jepang (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://0e86bba66a2158e99a2b6018ce5e07108d33e39944a7ebbfe81.s3.eu-west-3.amazonaws.com/2866c8bb34632851b60c7140aab3bf2d/live.m3u8|Referer=https://www.a7bd99146aa6f.online/
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3VhgjZf",7.Jerman vs Jepang (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3VhgjZf",8.Jerman vs Jepang (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://leveer.bongstreams.com/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3VhgjZf",9.Jerman vs Jepang (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3VhgjZf",_10.Jerman vs Jepang (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3GCGrKi",_11.Spanyol vs Costa Rica (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://0e86bba66a2158e99a2b6018ce5e07108d33e39944a7ebbfe81.s3.eu-west-3.amazonaws.com/2866c8bb34632851b60c7140aab3bf2d/live.m3u8|Referer=https://www.a7bd99146aa6f.online/
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3GCGrKi",_12.Spanyol vs Costa Rica (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3GCGrKi",_13.Spanyol vs Costa Rica (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://leveer.bongstreams.com/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3GCGrKi",_14.Spanyol vs Costa Rica (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3GCGrKi",_15.Spanyol vs Costa Rica (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3XAQjdB",_16.Belgia vs Canada (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://0e86bba66a2158e99a2b6018ce5e07108d33e39944a7ebbfe81.s3.eu-west-3.amazonaws.com/2866c8bb34632851b60c7140aab3bf2d/live.m3u8|Referer=https://www.a7bd99146aa6f.online/
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3XAQjdB",_17.Belgia vs Canada (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3XAQjdB",_18.Belgia vs Canada (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://leveer.bongstreams.com/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com
-
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3XAQjdB",_19.Belgia vs Canada (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3XAQjdB",_20.Belgia vs Canada (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
 
 
 
